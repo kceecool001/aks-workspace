@@ -2,7 +2,7 @@
 
 # Global settings
 global:
-  imageRegistry: ""
+  imageRegistry: "aksworkspace001.azurecr.io/"
 
 # Product service configuration
 productService:
